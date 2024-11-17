@@ -1,0 +1,3 @@
+dir(str...)
+
+sys.prefix
