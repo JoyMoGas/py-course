@@ -1,3 +1,9 @@
 dir(str...)
 
 sys.prefix
+
+in cmd, rute of notebooks file, 
+-jupyter notebook
+-pip install pandas
+-pip install openpyxl
+-pip install xlrd
