@@ -7,3 +7,6 @@ in cmd, rute of notebooks file,
 -pip install pandas
 -pip install openpyxl
 -pip install xlrd
+-pip install geopy
+-pip install numpy
+-py -3.9 -m pip install opencv-python
