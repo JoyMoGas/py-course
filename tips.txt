@@ -10,3 +10,8 @@ in cmd, rute of notebooks file,
 -pip install geopy
 -pip install numpy
 -py -3.9 -m pip install opencv-python
+-pip install pokeh
+-pip install justpy
+-pip install pytz
+-pip install matplotlib
+-pip install jupyter
